@@ -26,8 +26,10 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Mat9408&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mat9408&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat9408&layout=compact&langs_count=5&theme=default&hide_border=false" height="150" alt="Most used languages" />
 </div>
 
 ###
